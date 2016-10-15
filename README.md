@@ -1,4 +1,4 @@
-# Arduino count do the next Friday
+# Arduino count to the next Friday
 
 This is the first version of the countdown to the next Friday by the Arduino controller and RTC.
 Feature, Arduino controller is put to sleep every second to reduce the energy demand.
