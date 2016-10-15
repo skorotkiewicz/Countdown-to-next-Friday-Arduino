@@ -23,4 +23,4 @@ RTC.adjust(DateTime(__DATE__, __TIME__));
 ### Libraries used to make this:
 
  * [LedControl](https://github.com/wayoda/LedControl/releases) for LED Display
- * [rtclib](ttps://github.com/adafruit/RTClib>) for RTC Control
+ * [rtclib](https://github.com/adafruit/RTClib) for RTC Control
